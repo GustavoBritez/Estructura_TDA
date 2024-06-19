@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1718720378 source:d:\estructurada\estructura_tda\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Equipo.h"
+
+1718720373 d:\estructurada\estructura_tda\equipo.h
+
+1718720374 source:d:\estructurada\estructura_tda\equipo.c
+	<stdio.h>
+	<stdlib.h>
+	"Equipo.h"
+
